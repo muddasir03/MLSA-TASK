@@ -25,14 +25,12 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Muddasar Hussain",
-  title: "MERN Stack developer",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  title: "Full Stack Developer | MERN Stack Specialist | Next JS & React Native",
+  email: "muddasarhussain739@gmail.com",
+  gitHub: "muddasir03",
+  instagram: "muddasarhussain83",
+  linkedIn: "muddasarhussain",
+  medium: "@muddasir03"
 };
 
 const primaryColor = "#4E567E";

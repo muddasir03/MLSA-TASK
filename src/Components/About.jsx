@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a developer student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I AM A FULL STACK DEVELOPER BUILDING WEB AND MOBILE APPLICATIONS WITH INDUSTRY EXPERIENCE USING REACT & REACT NATIVE. I HAVE EXPERIENCE WORKING WITH MODERN TECH AND STACKS TO IMPRESS MY CLIENTS AND TO SHOW MY SKILLS. MY STRATEGY IS SPEAK LESS CODE MORE !";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "React JS",
+  "Node JS",
+  "MERN Stack",
+  "React Native",
+  "API Integration",
+  "Full Stack Development",
 ];
 
 /**

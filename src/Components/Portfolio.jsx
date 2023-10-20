@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/projects.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Netflix Clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Netflix Clone in React JS.",
+    url: "https://netflix-muddasar-hussain.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ElectroIcon",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Electrical Shop Store.",
+    url: "https://electro-icon.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "MH Shopping Mart",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Online E-commerce Store.",
+    url: "https://muddasar-hussain-ecommerce.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Trade Hub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Ecommerce store with Admin Panel",
+    url: "https://shopienurs.000webhostapp.com/home.php",
   },
 ];
 
